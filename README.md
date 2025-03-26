@@ -1,11 +1,7 @@
 
-<div align="center" style="background-color: #ffcd0a;">
-  <img src="/pp-preview-yellow.jpg" alt="Sublime's custom image" style="margin-bottom: -7px" />
-</div>
+## Dafecs Predictions
 
-## Predix Predictions
-
-Predix Predictions is a **decentralized prediction market** platform built on the Aptos blockchain. Designed as a **Telegram app** for ease of use and to attract new users, it allows participants to predict future asset prices and real-world events in a user-friendly environment.
+Dafecs Predictions is a **decentralized prediction market** platform built on the Aptos blockchain. Designed as a **Telegram app** for ease of use and to attract new users, it allows participants to predict future asset prices and real-world events in a user-friendly environment.
 
 ## Table of Contents
 
@@ -18,11 +14,11 @@ Predix Predictions is a **decentralized prediction market** platform built on th
 - [Team](#team)
 ## Introduction
 
-Predix Predictions is a decentralized platform that enables users to **create their own markets** and **predict the future prices** of various assets, as well as the **outcomes of future real-world events**, such as sports or politics. By offering a simple and engaging way for users to participate in prediction markets directly through **Telegram**, we aim to make decentralized finance **accessible to everyone**.
+Dafecs Predictions is a decentralized platform that enables users to **create their own markets** and **predict the future prices** of various assets, as well as the **outcomes of future real-world events**, such as sports or politics. By offering a simple and engaging way for users to participate in prediction markets directly through **Telegram**, we aim to make decentralized finance **accessible to everyone**.
 
 ## Key Features
 
-- **Telegram Bot Integration**: Interact with Predix Predictions directly within Telegram for ease of use.
+- **Telegram Bot Integration**: Interact with Dafecs Predictions directly within Telegram for ease of use.
 - **Decentralized Prediction Markets**: Users can create their own markets and predict future asset prices.
 - **Statistics and Historical Data**: A personalized performance dashboard allows users to track their past predictions and analyze historical data.
 - **Automation**: A backend server responsible to ensure scheduled market creation and auto-resolving markets.
@@ -30,7 +26,7 @@ Predix Predictions is a decentralized platform that enables users to **create th
 
 ## Tech Stack
 
-Predix Predictions leverages a modern and robust tech stack to provide a seamless user experience:
+Dafecs Predictions leverages a modern and robust tech stack to provide a seamless user experience:
 
 - **Aptos Move**: Provides the decentralized platform for our smart contracts.
 - **Next.js**: A state-of-the-art React framework for building the web application.
@@ -44,7 +40,7 @@ Our marketplace and market move modules are designed for decentralized security,
 
 ## Architecture Overview
 
-Predix Predictions consists of three fundamental parts:
+Dafecs Predictions consists of three fundamental parts:
 
 ### 1. Marketplace and Market Move Modules
 
@@ -153,6 +149,3 @@ Our team's combined expertise makes us well-suited to build and sustain a predic
 
 Thank you for using the Dafecs Predictions! If you have any questions, feel free to open an issue or contribute to improving the platform.
 
-<div align="center" style="background-color: #ffcd0a;">
-  <img src="https://www.polyturk.com/dafecs_approved.png" alt="Mr. Dafecs Approved" style="margin-bottom: -7px" />
-</div>
