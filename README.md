@@ -1,6 +1,6 @@
 
 <div align="center" style="background-color: #ffcd0a;">
-  <img src="https://www.polyturk.com/pp-preview-yellow.jpg" alt="Sublime's custom image" style="margin-bottom: -7px" />
+  <img src="/pp-preview-yellow.jpg" alt="Sublime's custom image" style="margin-bottom: -7px" />
 </div>
 
 ## Predix Predictions
@@ -154,5 +154,5 @@ Our team's combined expertise makes us well-suited to build and sustain a predic
 Thank you for using the Dafecs Predictions! If you have any questions, feel free to open an issue or contribute to improving the platform.
 
 <div align="center" style="background-color: #ffcd0a;">
-  <img src="https://www.polyturk.coma/dafecs_approved.png" alt="Mr. Dafecs Approved" style="margin-bottom: -7px" />
+  <img src="https://www.polyturk.com/dafecs_approved.png" alt="Mr. Dafecs Approved" style="margin-bottom: -7px" />
 </div>
